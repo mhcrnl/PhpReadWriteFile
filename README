@@ -1,0 +1,5 @@
+Scrierea si citirea filelor in limbajul PHP nu este atat de atragatoare ca utilizarea unei 
+baze de date. Dar este necesar sa cunoastem si acest aspect.
+
+Avem deja scrisa aceasta pagina README sa vedem cum putem prelua acest continut. Pentru 
+asta creem o nouă filă 'citeste.php'.
