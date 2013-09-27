@@ -3,3 +3,8 @@ baze de date. Dar este necesar sa cunoastem si acest aspect.
 
 Avem deja scrisa aceasta pagina README sa vedem cum putem prelua acest continut. Pentru 
 asta creem o nouă filă 'citeste.php'.
+
+Textul din anumite file poate fi utilizat ca flat-file database 
+(http://en.wikipedia.org/wiki/Flat_file_database) avem fila 'flatFile.txt' si vom incerca
+sa o citim cu fila 'citeste1.php'.
+
